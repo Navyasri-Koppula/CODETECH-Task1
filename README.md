@@ -1,7 +1,11 @@
 Name: Koppula Navya Sri 
+
 Company: CODETECH IT SOLUTIONS 
+
 ID: CT08DS6683 
+
 Domain: Frontend Web Development 
+
 Duration: August to September 2024 
 
 
