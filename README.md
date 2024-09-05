@@ -1,6 +1,6 @@
-**Name:** ADHI HARIKA  
+**Name:** KOPPULA NAVYA SRI  
 **Company:** CODETECH IT SOLUTIONS  
-**ID:** CT08DS6584  
+**ID:** CT08DS6683 
 **Domain:** Frontend Web Development  
 **Duration:** August to September 2024  
 
